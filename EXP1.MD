@@ -61,10 +61,20 @@ display()
 
 ### Output:
 ### 1.Do...While
+
+ 
 ### 2.While
+
+
 ### 3.For
+
+
 ### 4.Switch
+
+
 ### 5.If...Else
+
+
 
 
 
