@@ -33,7 +33,7 @@ def display():
 display()
 
 ```
-### 2.While
+### 2.While...Do
 ```
 start=input("Enter a positive value for START: ")
 end=input("Enter a positive value for END: ")
@@ -47,7 +47,7 @@ else:
     print("Enter a valid positive number.")
 
 ```
-### 3.For
+### 3.Switch
 ```
 def switch(): 
     switcher={ 
@@ -63,7 +63,7 @@ def switch():
 switch()
 
 ```
-### 4.Switch
+### 4.If...Else
 ```
 def compare(): 
     a=input("Enter a value for A: ") 
@@ -82,7 +82,7 @@ def compare():
 compare()
 
 ```
-### 5.If...Else
+### 5.For
 ```
 def iterate(): 
     string=input("Enter a string: ")
@@ -98,16 +98,16 @@ iterate()
 ### 1.Do...While
 
  
-### 2.While
+### 2.While...Do
 
 
-### 3.For
+### 3.Switch
 
 
-### 4.Switch
+### 4.If...Else
 
 
-### 5.If...Else
+### 5.For
 
 
 
