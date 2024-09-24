@@ -134,6 +134,12 @@ be equal to number of rows in matrix ―bl, and rows & columns should be positiv
 
 
 
+
+
+
+
+
+
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
 
