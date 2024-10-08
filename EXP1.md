@@ -96,114 +96,20 @@ iterate()
 
 ### Output:
 ### 1.Do...While
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+![1ao](https://github.com/user-attachments/assets/b556d57c-e093-46f2-b6a8-4640115c0187)
 
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-Character and string input
-Enter a positive value for START: hello
-Enter a positive value for END: y
-Enter a valid positive number. 
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
 ### 2.While...Do
-```
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
+![1bo](https://github.com/user-attachments/assets/167d0485-8b0c-447b-aa04-18a04bce460c)
 
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-
-Character and string input
-Enter a positive value for START: abc
-Enter a positive value for END: 100
-Enter a valid positive number. 
-
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-
-
-```
 ### 3.Switch
-```
-Positive numbers
-Enter a value for N: 1
-odd
+![1co](https://github.com/user-attachments/assets/452985ec-1aba-4d8d-bebb-e2cf5a6da05b)
 
-Negative numbers
-Enter a value for N: -10
-even
-
-
-Character and string input
-Enter a value for N: hello
-Enter a valid number.
-
-
-Null input
-Enter a value for N:
-Enter a valid number. 
-
-```
 ### 4.If...Else
-```
+![1do](https://github.com/user-attachments/assets/fe7745fb-192d-4bf8-b076-a15f9d0de8ef)
 
-Positive numbers
-Enter a value for A: 1
-Enter a value for B: 1
-A is equal to B.
-
-
-Negative numbers
-Enter a value for A: -10
-Enter a value for B: 5 B
-is greater than A.
-
-
-Character and string input
-Enter a value for A: hello
-Enter a value for B: y
-Enter a valid number.
-
-
-Null input
-Enter a value for A:
-Enter a value for B:
-Enter a valid number. 
-```
 ### 5.For
-```
-Characters
-Enter a string: say
-115 97 121
+![1eo](https://github.com/user-attachments/assets/a7957765-2ecf-4194-b2bd-e34ce0cc91f2)
 
-Number
-Enter a string: 1543
-49 53 52 51
-
-Null input
-Enter a string: 
-```
 
 
 
