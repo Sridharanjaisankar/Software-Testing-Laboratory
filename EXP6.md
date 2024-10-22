@@ -13,7 +13,31 @@ Write a Python program to check whether the string is Palindrome and generate te
 6. Else, return that it is not a palindrome. 
 7. Stop the program.
 ### Program:
+```
+def Palindrome(string):
+    for i in range(0, int(len(string) / 2)):
+        if string[i] != string[len(string) - i - 1]:
+            return False
+    return True
 
+s = input("Enter the string: ")
+c = 1
+
+# Check if all characters are alphabetic
+for i in s:
+    if not i.isalpha():
+        c = 0
+        break  
+
+if c == 0:
+    print("Enter a valid string")
+else:
+    answer = Palindrome(s)
+    if answer:
+        print("The given string is a palindrome")
+    else:
+        print("The given string is not a palindrome")
+```
 
 
 
@@ -26,6 +50,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 
 
 ### Output:
+![Ex6o](https://github.com/user-attachments/assets/4a232a14-6b00-43af-9c8b-cf2afc6023d2)
 
 
 
