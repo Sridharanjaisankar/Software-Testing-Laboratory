@@ -33,7 +33,7 @@ def test_fib_6_equals_8():
 
 ### Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2fcdf314-df6e-42da-80eb-758af09f231d)
 
 
 ### Result:
