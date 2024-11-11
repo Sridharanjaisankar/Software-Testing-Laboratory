@@ -40,7 +40,7 @@ for execution : execute “pytest test_parameter.py”.
 
 ### Output
 
-![Screenshot 2024-11-09 200831](https://github.com/user-attachments/assets/219eac3d-d579-44de-b0c2-c1231fd81649)
+![image](https://github.com/user-attachments/assets/b465aa58-5568-4e3f-a19a-32c9d3d479fb)
 
 
 ### Result
